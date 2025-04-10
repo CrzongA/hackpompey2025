@@ -1,0 +1,6 @@
+[submodule "hackpompey2025-data-server"]
+	path = hackpompey2025-data-server
+	url = git@github.com:CrzongA/hackpompey2025-data-server.git
+[submodule "hackpompey2025-app"]
+	path = hackpompey2025-app
+	url = git@github.com:CrzongA/hackpompey2025-app.git
