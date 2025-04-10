@@ -12,8 +12,6 @@ The original goals of this project is to build a comprehensive dashboard that vi
 
 The name of this project came from my realization towards the final moment of this hackathon that I am not going to achieve what I set out to do, and by the end of the hackathon I have only managed to complete the first target :). Nonetheless, I have learned a lot from this experience and I am working on improving this project so that more helpful information and insights can be extracted from these data.
 
-This is a work in progress.
-
 ## Modules
 Visit the module folders for a more detailed readme.
 
